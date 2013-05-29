@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 
 # Update git-daemon and gitweb access using 'option' lines instead of special
 # usernames.

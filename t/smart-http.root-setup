@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # ----------------------------------------------------------------------
 # please do not even LOOK at this file without reading doc/http.mkd

@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 
 # Usage:    ssh git@host desc <repo>
 #           ssh git@host desc <repo> <description string>

@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 
 export GL_BYPASS_ACCESS_CHECKS=1
 

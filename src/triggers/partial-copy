@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 
 # this is a wee bit expensive in terms of forks etc., compared to doing it in
 # perl, but I wanted to show how *easy* it actually is now.  And really,

@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # not part of the official test suite (yet); just some q&d testing
 

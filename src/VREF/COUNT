@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 
 # gitolite VREF to count number of changed/new files in a push
 

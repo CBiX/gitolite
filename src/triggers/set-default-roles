@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 
 # POST_CREATE trigger to set up default set of perms for a new wild repo
 

@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 
 # manage local, gitolite-controlled, copies of read-only upstream repos.
 

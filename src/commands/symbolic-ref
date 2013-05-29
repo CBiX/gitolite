@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 
 # Usage:    ssh git@host symbolic-ref <repo> <arguments to git-symbolic-ref>
 #

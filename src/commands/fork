@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 
 # Usage:    ssh git@host fork <repo1> <repo2>
 #

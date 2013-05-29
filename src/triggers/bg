@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # quick and dirty program to background any of the triggers programs that are
 # taking too long.  To use, just replace a line like
